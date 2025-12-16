@@ -2,6 +2,7 @@
 pdf파일에서 텍스트를 추출해서 요약 후 pdf를 만들어줍니다.
 
 **중요** 사용하시기전에 data폴더의 Hello, outputs/chapters폴더의 World! txt파일들은 지우고 사용해주세요!
+
 **중요** 다운로드 후 사용하시기 전 requirements.txt를 읽어주세요!
 
 <img width="1724" height="744" alt="data" src="https://github.com/user-attachments/assets/441259b2-7bf0-4099-832e-9b068c7ecd85" />
