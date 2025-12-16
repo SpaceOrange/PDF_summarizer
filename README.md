@@ -1,4 +1,4 @@
-# dpf_summarizer
+# pdf_summarizer
 pdf파일에서 텍스트를 추출해서 요약 후 pdf를 만들어줍니다.
 
 **중요** 사용하시기전에 data폴더의 Hello, outputs/chapters폴더의 World! txt파일들은 지우고 사용해주세요!
