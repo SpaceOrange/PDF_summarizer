@@ -1,10 +1,10 @@
 # pdf_summarizer
 
-**src폴더 안에 있는 extract_text.py, split_chapters.py, summarize_chapters.py, summeries_to_pdf.py순서로 실행시키시면 됩니다.**
+**src폴더 안에 있는 extract_text.py, split_chapters.py, summarize_chapters.py, summaries_to_pdf.py순서로 실행시키시면 됩니다.**
 
 **아래 내용도 꼭 읽어주세요**
 
-**중요** **중요**중요**중ㅇ**중**중**주****아래는 각
+**중요 아래는 파이썬 파일을 실행시키는 방법입니다**
 
 1. 파일을 켜줍니다
 
